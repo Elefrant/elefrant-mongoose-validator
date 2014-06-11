@@ -1,0 +1,24 @@
+{
+    "author": "Marcos Sanz <marcos.sanz@13genius.com> (www.elefrant.com)",
+    "name": "elefrant-mongoose-validator",
+    "description": "Mongoose validator for Elfrant Framework",
+    "version": "0.1.0",
+    "repository": {
+        "url": "https://www.github.com/elefrant/elefrant-mongoose-validator"
+    },
+    "main": "index.js",
+    "scripts": {
+        "test": "make test"
+    },
+    "dependencies": {
+        "mongoose-validator": ">=0.2.2"
+    },
+    "devDependencies": {
+        "hint-hint": "~0.3.0",
+        "tap": "~0.3.1"
+    },
+    "optionalDependencies": {},
+    "engines": {
+        "node": ">=0.6"
+    }
+}
