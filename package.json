@@ -3,8 +3,8 @@
     "name": "elefrant-mongoose-validator",
     "description": "Mongoose validator for Elefrant Framework",
     "version": "0.1.0",
-    "repository": {
-        "url": "https://www.github.com/elefrant/elefrant-mongoose-validator"
+    "repository": { 
+        "url": "https://github.com/Elefrant/elefrant-mongoose-validator.git"
     },
     "main": "index.js",
     "scripts": {
