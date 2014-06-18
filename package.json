@@ -1,7 +1,7 @@
 {
     "author": "Marcos Sanz <marcos.sanz@13genius.com> (www.elefrant.com)",
     "name": "elefrant-mongoose-validator",
-    "description": "Mongoose validator for Elfrant Framework",
+    "description": "Mongoose validator for Elefrant Framework",
     "version": "0.1.0",
     "repository": {
         "url": "https://www.github.com/elefrant/elefrant-mongoose-validator"
