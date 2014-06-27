@@ -9,7 +9,7 @@ npm install elefrant-mongoose-validator
 ### Usage
 Use as monoogse-validator
 ```bash
-require('elefrant-mongoose-validator').validate;
+require('elefrant-mongoose-validator');
 ```
 
 ### Testing
