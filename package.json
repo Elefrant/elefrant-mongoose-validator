@@ -12,7 +12,7 @@
         "test": "make test"
     },
     "dependencies": {
-        "mongoose-validator": ">=0.2.2"
+        "mongoose-validator": "^1.0.0"
     },
     "devDependencies": {
         "hint-hint": "~0.3.0",
